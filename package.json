@@ -1,0 +1,20 @@
+{
+  "name": "navigation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "src": "^1.1.2"
+  },
+  "devDependencies": {
+    "cssnano": "^5.1.7",
+    "postcss": "^8.2.15",
+    "sass": "^1.51.0"
+  }
+}
